@@ -1,5 +1,5 @@
-# Suggest_Diet_Plan_On_BlooD_Report_Multi_Agent_App
-# Diet Plan Suggester on Blood Report (Multi-Agent App)
+# Suggest_Diet_Plan_On_Blood_Report_Multi_Agent_App
+
 
 An AI-powered multi-agent system that analyzes blood test results and recommends personalized diet plans. Built with LangGraph and deployed on Streamlit Cloud.
 
