@@ -1,0 +1,15 @@
+﻿# Ignore environment files
+.env
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# .gitignore
+.env
+.env.local
+.env.*.local
